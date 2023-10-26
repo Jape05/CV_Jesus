@@ -37,7 +37,7 @@ h2 {
 }
 
 .profile_image_container {
-    max-width: 500px;
+    max-width: 250px;
     border-radius: 50px;
 }
 
@@ -151,7 +151,7 @@ nav ul a {
     margin: 0;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 779px) {
     body {
         font-size: 14px;
     }
@@ -185,7 +185,7 @@ nav ul a {
     }
 
     .profile_image_container {
-        max-width: 100%;
+        max-width: 80%;
     }
 
     .second_title {
